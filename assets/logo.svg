@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e3a8a"/>
+      <stop offset="100%" style="stop-color:#0a1628"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#d4af37"/>
+      <stop offset="100%" style="stop-color:#f59e0b"/>
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" rx="24" fill="url(#bg)"/>
+  <circle cx="100" cy="70" r="35" fill="none" stroke="url(#gold)" stroke-width="4"/>
+  <path d="M85 70 L95 80 L115 60" fill="none" stroke="#059669" stroke-width="4" stroke-linecap="round"/>
+  <text x="100" y="130" text-anchor="middle" fill="#d4af37" font-family="Inter,Arial,sans-serif" font-size="28" font-weight="800">ERP</text>
+  <text x="100" y="155" text-anchor="middle" fill="#94a3b8" font-family="Inter,Arial,sans-serif" font-size="9" letter-spacing="2">ELECTION RESULTS</text>
+  <text x="100" y="175" text-anchor="middle" fill="#64748b" font-family="Inter,Arial,sans-serif" font-size="8" letter-spacing="1">PUBLISHING PORTAL</text>
+</svg>
